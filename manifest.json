@@ -8,14 +8,14 @@
         "images": {
             "theme_frame": "images/theme_frame.png",
             "theme_tab_background": "images/theme_tab_background.png",
-            "theme_ntp_background": "images/magine.png"
+            "theme_ntp_background": "images/theme_ntp_background.png"
         },
         "colors": {
             "frame": [
                 0,
                 0,
                 0,
-                0.2
+                0
             ],
             "frame_inactive": [
                 60,
@@ -64,6 +64,7 @@
                 2
             ],
             "ntp_background": [
+                0,
                 0,
                 0,
                 0
