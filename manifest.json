@@ -2,7 +2,7 @@
     "version": "1.0",
     "name": "Chromagine",
     "manifest_version": 2,
-    "description": "A Magine theme",
+    "description": "A Magine theme inspired by the revolutionary new TV service from Sweden.",
     "reference" : "http://code.google.com/p/chromium/wiki/ThemeCreationGuide",
     "theme": {
         "images": {
